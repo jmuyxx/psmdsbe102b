@@ -1,1 +1,2 @@
-# psmdsbe102b
+# psmdsbe102
+Uses diabetes dataset
